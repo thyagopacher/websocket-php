@@ -1,0 +1,1 @@
+kill -l $(/usr/bin/lsof -i:42421 -t)
